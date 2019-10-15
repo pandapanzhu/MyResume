@@ -1,6 +1,8 @@
 # My Resume
 
-[html.love](http://html.love)
+
+
+
 
 ## Introduction
 
@@ -22,7 +24,3 @@ $ npm install
 $ npm install -g gulp
 $ gulp
 ```
-
-## LICENSE
-
-MIT © [DIYgod](http://github.com/DIYgod)
