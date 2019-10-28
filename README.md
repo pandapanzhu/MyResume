@@ -1,6 +1,8 @@
 # My Resume
 
+[中文简历](https://github.com/pandapanzhu/MyResume/tree/master/lib/祝攀--中文简历.pdf)请点这里
 
+[英文简历](https://github.com/pandapanzhu/MyResume/tree/master/lib/pan zhu`s Resume.pdf)请点这里
 
 
 
